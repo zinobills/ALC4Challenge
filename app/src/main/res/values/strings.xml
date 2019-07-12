@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ALC 4.0 Phase 1</string>
+    <string name="main_intro">Welcome to ALC 4.0</string>
+    <string name="main_alc">ABOUT ALC</string>
+    <string name="main_my_profile">MY PROFILE</string>
+    <string name="my_name">Barnabas Ewusie</string>
+    <string name="my_track">Track:  Android</string>
+    <string name="my_country">Country:  Ghana</string>
+    <string name="my_email">Email:  zinobillsgh@gmail.com</string>
+    <string name="my_phone">Phone Number:   +233249450920</string>
+    <string name="slack_username">Slack Username:   @Barnabas Ewusie</string>
+    <string name="profile_activity">My Profile</string>
+    <string name="alc_activity">About ALC</string>
+</resources>
